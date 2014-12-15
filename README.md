@@ -1,7 +1,7 @@
 Teemo
 =====
 
-Size doesn't mean everything! 
+Size doesn't mean everything! :))
 
 <h3>Modules</h3>
 <ul>
